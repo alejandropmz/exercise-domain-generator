@@ -1,0 +1,25 @@
+
+h3 {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    width: 60%;
+    height: 550px;
+}
+
+.separador {
+    height: 40%;
+}
+
+.domains {
+    vertical-align: center;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.buttom {
+    vertical-align: center;
+    text-align: center;
+}
